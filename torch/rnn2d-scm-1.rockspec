@@ -2,7 +2,8 @@ package = "rnn2d"
 version = "scm-1"
 
 source = {
-  url = "git://github.com/isaziconsulting/rnn2d.git@no_tile"
+  url = "git://github.com/isaziconsulting/rnn2d.git",
+  branch = "no_tile"
 }
 
 description = {
