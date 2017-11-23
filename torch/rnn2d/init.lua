@@ -85,6 +85,5 @@ end
 -- Load layers
 require('rnn2d.Collapse')
 require('rnn2d.LSTM')
-require('rnn2d.Tile')
 
 return rnn2d
